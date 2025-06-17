@@ -26,7 +26,8 @@ class PrintListActivity : AppCompatActivity() {
 
     private fun combinedWords(): String {
         var combined = ""
-        for (idx in 0 until words.size + 1) {
+        //i removed the +1. until will go from index 0 to 5 as its a list of size 6, so +1 takes it out of bounds
+        for (idx in 0 until words.size) {
             combined += "${words[idx]}\n"
         }
         return combined
