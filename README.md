@@ -37,7 +37,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-![me](https://github.com/Soup098/code_path_project_one/blob/main/project_one.gif)
+![me](https://github.com/Soup098/code_path_project_two/blob/main/project_two.gif))
 
 GIF created with **your chosen GIF tool**
 
